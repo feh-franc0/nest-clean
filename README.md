@@ -74,4 +74,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, fazer pu
 
 ---
 
-⌨️ Por: [Fernando Franco Valle](https://www.linkedin.com/in/fernandofrancovalle/) 😊
+⌨️ Por: [Fernando Franco](https://www.linkedin.com/in/fernandofrancovalle/) 😊
